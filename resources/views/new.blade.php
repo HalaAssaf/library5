@@ -13,5 +13,5 @@
 @endsection
 
 @section('content')
-    hello
+     {{-- this is the content --}}
 @endsection
